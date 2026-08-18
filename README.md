@@ -34,12 +34,12 @@ Currently studying **BS Information Technology** at Eastern Samar State Universi
 ### 🏅 Certifications
 
 <p align="left">
-  <a href="https://www.credly.com/badges/edb0f3e0-d69d-4e36-bb30-b12ed230dd69" target="_blank">
-    <img src="https://images.credly.com/size/220x220/images/networking-academy-badge-placeholder/image.png" alt="Network Addressing and Basic Troubleshooting" height="90" />
+  <a href="https://images.credly.com/size/110x110/images/49c099bd-8542-4f48-8c03-f21799dcaf51/image.png" target="_blank">
+    <img src="" alt="Network Addressing and Basic Troubleshooting" height="90" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.credly.com/badges/e68d2fc9-40ee-4e05-b3c8-89dd0510d142" target="_blank">
-    <img src="https://images.credly.com/size/220x220/images/cyber-threat-management-badge-placeholder/image.png" alt="Cyber Threat Management" height="90" />
+    <img src="https://images.credly.com/size/110x110/images/5d5ac32b-d239-42b8-9665-8a921dc3ab47/image.png" alt="Cyber Threat Management" height="90" />
   </a>
 </p>
 
