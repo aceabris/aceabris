@@ -53,14 +53,14 @@ Currently studying **BS Information Technology** at Eastern Samar State Universi
 
 - **Network Addressing and Basic Troubleshooting** — Cisco Networking Academy · May 2026 → [Verify](https://www.credly.com/badges/edb0f3e0-d69d-4e36-bb30-b12ed230dd69)
 - **Cyber Threat Management** — Cisco Networking Academy · May 2024 → [Verify](https://www.credly.com/badges/e68d2fc9-40ee-4e05-b3c8-89dd0510d142)
-- - **Hardware and Upgrade Support** — Cisco Networking Academy · May 2024 → [Verify](https://www.credly.com/badges/2efa063f-befd-449a-8147-63457ab67447)
-  - - **Data Analytics Essentials** — Cisco Networking Academy · May 2024 → [Verify](https://www.credly.com/badges/4d08237e-b3ef-4784-929d-6636c7066abb2)
+- **Hardware and Upgrade Support** — Cisco Networking Academy · May 2024 → [Verify](https://www.credly.com/badges/2efa063f-befd-449a-8147-63457ab67447)
+- **Data Analytics Essentials** — Cisco Networking Academy · May 2024 → [Verify](https://www.credly.com/badges/4d08237e-b3ef-4784-929d-6636c7066abb2)
 
 
 
 ---
 
-### 🚀 Featured builds
+### 🚀 Featured builds - Details to follow
 
 **[RFID Based Computer Laboratory E-Logbook System](https://github.com/aceabris/labbook)**
 An RFID-based e-logbook for computer labs — students tap in, hours get logged, nobody argues about attendance.
@@ -74,18 +74,6 @@ RFID attendance tracking wired straight into fines monitoring for ITSO events �
 
 ---
 
-### 📊 GitHub stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=aceabris&show_icons=true&theme=tokyonight&hide_border=true" alt="Albert's GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aceabris&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165" />
-</p>
-
-<p align="left">
-  <img src="https://streak-stats.demolab.com/?user=aceabris&theme=tokyonight&hide_border=true" alt="GitHub streak" height="165" />
-</p>
-
----
 
 ### 🔗 Find me elsewhere
 
