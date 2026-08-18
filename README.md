@@ -41,12 +41,22 @@ Currently studying **BS Information Technology** at Eastern Samar State Universi
   <a href="https://www.credly.com/badges/e68d2fc9-40ee-4e05-b3c8-89dd0510d142" target="_blank">
     <img src="https://images.credly.com/size/110x110/images/5d5ac32b-d239-42b8-9665-8a921dc3ab47/image.png" alt="Cyber Threat Management" height="90" />
   </a>
+  &nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/e68d2fc9-40ee-4e05-b3c8-89dd0510d142" target="_blank">
+    <img src="https://images.credly.com/size/110x110/images/94cbdf0d-3e44-44b2-b213-866fe22aa7d5/blob" alt="Hardware and Upgrade Support" height="90" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/e68d2fc9-40ee-4e05-b3c8-89dd0510d142" target="_blank">
+    <img src="https://images.credly.com/size/110x110/images/1fdfeaeb-e61c-4450-bdfe-a07bd4e715df/image.png" alt="Data Analytics Essentials" height="90" />
+  </a>
 </p>
 
 - **Network Addressing and Basic Troubleshooting** — Cisco Networking Academy · May 2026 → [Verify](https://www.credly.com/badges/edb0f3e0-d69d-4e36-bb30-b12ed230dd69)
 - **Cyber Threat Management** — Cisco Networking Academy · May 2024 → [Verify](https://www.credly.com/badges/e68d2fc9-40ee-4e05-b3c8-89dd0510d142)
+- - **Hardware and Upgrade Support** — Cisco Networking Academy · May 2024 → [Verify](https://www.credly.com/badges/2efa063f-befd-449a-8147-63457ab67447)
+  - - **Data Analytics Essentials** — Cisco Networking Academy · May 2024 → [Verify](https://www.credly.com/badges/4d08237e-b3ef-4784-929d-6636c7066abb2)
 
-*(Badge images above are placeholders — swap in the real PNGs from `assets/certifications/` or your Credly badge embed links.)*
+
 
 ---
 
