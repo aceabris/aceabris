@@ -51,10 +51,10 @@ Currently studying **BS Information Technology** at Eastern Samar State Universi
   </a>
 </p>
 
-- **Network Addressing and Basic Troubleshooting** — Cisco Networking Academy · May 2026 → [Verify](https://www.credly.com/badges/edb0f3e0-d69d-4e36-bb30-b12ed230dd69)
-- **Cyber Threat Management** — Cisco Networking Academy · May 2024 → [Verify](https://www.credly.com/badges/e68d2fc9-40ee-4e05-b3c8-89dd0510d142)
-- **Hardware and Upgrade Support** — Cisco Networking Academy · May 2024 → [Verify](https://www.credly.com/badges/2efa063f-befd-449a-8147-63457ab67447)
-- **Data Analytics Essentials** — Cisco Networking Academy · May 2024 → [Verify](https://www.credly.com/badges/4d08237e-b3ef-4784-929d-6636c7066abb2)
+- **Network Addressing and Basic Troubleshooting** — Cisco Networking Academy · May 24, 2026 → [Verify](https://www.credly.com/badges/edb0f3e0-d69d-4e36-bb30-b12ed230dd69)
+- **Cyber Threat Management** — Cisco Networking Academy · May 29, 2026 → [Verify](https://www.credly.com/badges/e68d2fc9-40ee-4e05-b3c8-89dd0510d142)
+- **Hardware and Upgrade Support** — Cisco Networking Academy · June 16, 2026 → [Verify](https://www.credly.com/badges/2efa063f-befd-449a-8147-63457ab67447)
+- **Data Analytics Essentials** — Cisco Networking Academy · Aug 16, 2026 → [Verify](https://www.credly.com/badges/4d08237e-b3ef-4784-929d-6636c7066abb2)
 
 
 
@@ -78,8 +78,6 @@ RFID attendance tracking wired straight into fines monitoring for ITSO events �
 
 <p align="left">
   <a href="mailto:aceabris00@gmail.com">✉️ Email</a> &nbsp;·&nbsp;
-  <a href="https://linkedin.com/" target="_blank">💼 LinkedIn</a> &nbsp;·&nbsp;
-  <a href="https://twitter.com/" target="_blank">🐦 Twitter</a> &nbsp;·&nbsp;
   <a href="https://www.credly.com/users/john-albert-abris" target="_blank">🏅 Credly</a>
 </p>
 
