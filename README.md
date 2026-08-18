@@ -70,7 +70,6 @@ An RFID-based e-logbook for computer labs — students tap in, hours get logged,
 RFID attendance tracking wired straight into fines monitoring for ITSO events — one tap, two problems solved.
 `HTML` `CSS` `JavaScript` `PHP` `MySQL` — [Live demo ↗](https://essu-scan.free.nf/itso-events/scanner.php)
 
-*(GitHub links above are placeholders — replace `aceabris/labbook` and `aceabris/itso-events` with your real repo URLs.)*
 
 ---
 
